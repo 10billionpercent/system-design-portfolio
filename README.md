@@ -17,11 +17,11 @@ As projects evolve, more diagrams may be added over time.
 
 ## Current Projects
 
-- [Sukito](https://github.com/10billionpercent/Sukito)
-- BasukeDoro
-- SweetSteps
-- Antaryami
-- [Sibyl](https://github.com/10billionpercent/cf_ai_sibyl)
+- [Sukito](https://github.com/10billionpercent/system-design-portfolio/tree/main/sukito)
+- [BasukeDoro](https://github.com/10billionpercent/system-design-portfolio/tree/main/basukedoro)
+- [SweetSteps](https://github.com/10billionpercent/system-design-portfolio/tree/main/sweetsteps)
+- [Antaryami](https://github.com/10billionpercent/system-design-portfolio/tree/main/antaryami)
+- [Sibyl](https://github.com/10billionpercent/system-design-portfolio/tree/main/sibyl)
 
 ## Ongoing Updates
 
