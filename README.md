@@ -21,14 +21,7 @@ As projects evolve, more diagrams may be added over time.
 - BasukeDoro
 - SweetSteps
 - Antaryami
-- Yūnami
 - [Sibyl](https://github.com/10billionpercent/cf_ai_sibyl)
-
-## Tools Used
-
-- Mermaid
-- Markdown
-- GitHub
 
 ## Ongoing Updates
 
