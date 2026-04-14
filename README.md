@@ -23,12 +23,6 @@ As projects evolve, more diagrams may be added over time.
 - Antaryami
 - [Sibyl](https://github.com/10billionpercent/cf_ai_sibyl)
 
-## Tools Used
-
-- Mermaid
-- Markdown
-- GitHub
-
 ## Ongoing Updates
 
 This repository will continue to grow as new projects are added and existing systems are refined.
