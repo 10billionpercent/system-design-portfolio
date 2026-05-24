@@ -13,17 +13,17 @@ sequenceDiagram
     User->>Telegram Bot: Send /jobs command
     Telegram Bot->>FastAPI Backend: GET /fetch-jobs
 
-    FastAPI Backend->>FastAPI Backend: Scrape and normalize career pages
+    FastAPI Backend->>FastAPI Backend: Fetch and normalize internships from career pages
     FastAPI Backend->>MongoDB: Fetch candidate resume profile
     MongoDB-->>FastAPI Backend: Return parsed resume
 
-    FastAPI Backend->>Workers AI: Embed jobs and resume profile
+    FastAPI Backend->>Workers AI: Embed internships and resume profile
     Workers AI-->>FastAPI Backend: Return embeddings
 
-    FastAPI Backend->>Groq LLM: Send jobs with profile for match scoring
+    FastAPI Backend->>Groq LLM: Send internships with profile for match scoring
     Groq LLM-->>FastAPI Backend: Return scores, explanations, and uncertainty
 
-    FastAPI Backend->>D1 Logger: Log all jobs and match decisions
+    FastAPI Backend->>D1 Logger: Log all internships and match decisions
     FastAPI Backend-->>Telegram Bot: Return ranked internship results
 
     Telegram Bot->>User: Send internship cards with feedback buttons
