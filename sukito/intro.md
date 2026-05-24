@@ -9,4 +9,4 @@ Anime recommendation web app with a bento-style interface powered by Kitsu API d
 
 ## GitHub Repository
 
-https://github.com/10billionpercent/Sukito
+https://github.com/10billionpercent/sukito

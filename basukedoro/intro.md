@@ -6,3 +6,11 @@ Basketball-themed productivity timer that turns focus sessions into match-style 
 
 - system-diagram.md
 - sequence-diagram.md
+
+## GitHub Repository
+
+https://github.com/10billionpercent/basukedoro
+
+## Live Link
+
+https://basukedoro.pages.dev/

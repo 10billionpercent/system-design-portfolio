@@ -6,3 +6,7 @@ Autonomous internship discovery system that fetches, matches, and delivers ranke
 
 - system-diagram.md
 - sequence-diagram.md
+
+## GitHub Repository
+
+https://github.com/10billionpercent/sibyl

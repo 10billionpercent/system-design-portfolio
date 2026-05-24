@@ -17,11 +17,11 @@ As projects evolve, more diagrams may be added over time.
 
 ## Current Projects
 
-- [Sukito](https://github.com/10billionpercent/Sukito)
-- BasukeDoro
-- SweetSteps
+- [Sukito](https://github.com/10billionpercent/sukito)
+- [BasukeDoro](https://github.com/10billionpercent/basukedoro)
+- [Kriozen](https://kriozen.pages.dev/)
 - Antaryami
-- [Sibyl](https://github.com/10billionpercent/cf_ai_sibyl)
+- [Sibyl](https://github.com/10billionpercent/sibyl)
 
 ## Ongoing Updates
 
